@@ -5,7 +5,7 @@
 
 <img src="https://user-images.githubusercontent.com/71806917/113606471-b1930e00-9665-11eb-9b06-6b214bf67b5f.gif" align="right" height="275" width="500">
 
-- 👋 Hi, I’m @J3r1n-sudo (Jerin John Mathew)
+- 👋 Hi, I’m Jerin John Mathew ( @J3r1n-sudo )
 - 👀 I’m interested in ... All things Cybersecurity and Lo-Fi Music !
 - 📝 Currently Pursuing Computer Engineering !
 - 🌱 I’m currently learning ... Active Directory,Forensics and C++ language
