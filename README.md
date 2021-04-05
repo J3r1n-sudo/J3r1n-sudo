@@ -5,7 +5,7 @@
 - 👋 Hi, I’m @J3r1n-sudo (Jerin John Mathew)
 - 👀 I’m interested in ... All things Cybersecurity
 - 🌱 I’m currently learning ... Active Directory,Forensics and C++ language
-- 💞️ I’m looking to collaborate on ... Github and Security
+- 💞️ I’m looking to collaborate on ... Github , Security and Development
 - 📫 How to reach me ... [E-Mail](jerinjohnmathew200060@gmail.com) ; [LinkedIn](https://www.linkedin.com/in/jerin-john-mathew-7a20b7134)
 
 <!---
