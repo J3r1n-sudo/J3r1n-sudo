@@ -1,9 +1,9 @@
 # Welcome Visitor !!!
 
-<img src="https://user-images.githubusercontent.com/71806917/113596107-78ec3800-9657-11eb-9638-6e6cc8009388.gif" align="right" height="250" width="500">
-
-
 **Hope you're having a Great Day!**
+- - - -
+
+<img src="https://user-images.githubusercontent.com/71806917/113606471-b1930e00-9665-11eb-9b06-6b214bf67b5f.gif" align="right" height="250" width="500">
 
 - 👋 Hi, I’m @J3r1n-sudo (Jerin John Mathew)
 - 👀 I’m interested in ... All things Cybersecurity
