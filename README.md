@@ -1,6 +1,6 @@
 # Welcome Visitor !!!
 
-<img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" align="right" height="250" width="250">
+<img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" align="right" height="250" width="350">
 
 **Hope you're having a Great Day!**
 
