@@ -1,6 +1,6 @@
 # Welcome Visitor !!!
 
-<img src="https://user-images.githubusercontent.com/71806917/113596107-78ec3800-9657-11eb-9638-6e6cc8009388.gif" align="right" height="250" width="300">
+<img src="https://user-images.githubusercontent.com/71806917/113596107-78ec3800-9657-11eb-9638-6e6cc8009388.gif" align="right" height="250" width="500">
 
 
 **Hope you're having a Great Day!**
