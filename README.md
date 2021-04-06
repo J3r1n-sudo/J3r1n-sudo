@@ -19,6 +19,9 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJ3r1n-sudo&count_bg=%2370DF1C&title_bg=%23555555&icon=prometheus.svg&icon_color=%2335C3FD&title=Visitor+Count&edge_flat=false)](https://hits.seeyoufarm.com)
 
+
+![](https://komarev.com/ghpvc/?username=J3r1n-sudo&label=PROFILE+VIEWS)
+
 <!---
 J3r1n-sudo/J3r1n-sudo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.  other gif links : **https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif**
