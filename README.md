@@ -7,7 +7,7 @@
 
 - 👋 Hi, I’m Jerin John Mathew ( @J3r1n-sudo )
 - 👀 I’m interested in ... All things Cybersecurity and Lo-Fi Music !
-- 📝 Currently Pursuing Computer Engineering !
+- 📝 Currently Pursuing Masters in Cybersecurity !
 - 🌱 I’m currently learning ... Active Directory, Pentesting , Forensics and C++ language
 - 💞️ I’m looking to collaborate on ... Github , Security and Development
 - 📫 How to reach me ... [E-Mail](jerinjohnmathew200060@gmail.com) ; [LinkedIn](https://www.linkedin.com/in/jerin-john-mathew-7a20b7134)
